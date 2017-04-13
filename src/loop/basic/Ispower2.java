@@ -9,7 +9,7 @@ public class Ispower2 {
 		System.out.println(isPowerOfTwo(1024));
 		System.out.println(isPowerOfTwo(1));
 	}
-
+ 
 	public static boolean isPowerOfTwo(int n) {
 		
 		
