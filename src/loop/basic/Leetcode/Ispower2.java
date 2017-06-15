@@ -1,4 +1,4 @@
-package loop.basic;
+package loop.basic.Leetcode;
 
 public class Ispower2 {
 
